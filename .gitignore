@@ -11,3 +11,12 @@ wheels/
 .prod_assistant
 .env
 
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/ 
+
+# JetBrains IDE settings
+.idea/
+
